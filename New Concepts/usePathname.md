@@ -1,0 +1,1 @@
+usePathname is a nextjs in built hook that is used for fetch the pathname from URL 
