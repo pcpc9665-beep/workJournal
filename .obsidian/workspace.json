@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Concept for understand Speaking Languages/Different Tenses of English.md",
+                "file": "New Concepts/MCP VS API.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Different Tenses of English"
+              "title": "MCP VS API"
             }
           }
         ]
@@ -198,6 +198,9 @@
   },
   "active": "bfdbf52f68b0f518",
   "lastOpenFiles": [
+    "New Concepts/Agile Method.md",
+    "New Concepts/MCP VS API.md",
+    "New Concept for understand Speaking Languages/Different Tenses of English.md",
     "Untitled.base"
   ]
 }
