@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StockPilot/next.config.ts.md",
+                "file": "New Concepts/Git Stash.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "next.config.ts"
+              "title": "Git Stash"
             }
           }
         ],
@@ -213,8 +213,13 @@
   },
   "active": "9a3df9eeb6371311",
   "lastOpenFiles": [
+    "Programming Languages/GitHub.md",
+    "New Concepts/Git Stash.md",
+    "StockPilot/Improve Methods/Payement  GateWay.md",
+    "StockPilot/Files Usages and Definitions/next.config.ts.md",
+    "StockPilot/Improve Methods",
+    "StockPilot/Files Usages and Definitions",
     "different types of testing.md",
-    "StockPilot/next.config.ts.md",
     "StockPilot",
     "Untitled",
     "Untitled.base",
