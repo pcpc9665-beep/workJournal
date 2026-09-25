@@ -1,6 +1,6 @@
 **`git stash` is a built-in Git command that temporarily saves your uncommitted local changes** so you can switch tasks or branches without losing your work or making an incomplete, messy commit.
 
-When you run `git stash`, Git takes all your modified tracked files (both staged and unstaged ), safely stores them away in a local "stash stack," and reverts your working directory back to a clean state matching the last commit (`HEAD`)
+When you run `git stash`, Git takes all your modified tracked files (both staged and unstaged  ), safely stores them away in a local "stash stack," and reverts your working directory back to a clean state matching the last commit (`HEAD`)
 
 💡 Why Use It? (Common Use Cases)
 
@@ -23,3 +23,8 @@ When you run `git stash`, Git takes all your modified tracked files (both staged
 | **`git stash apply`**                   | Restores your stashed changes but **keeps them** in the stash list for safekeeping.                                      |
 | **`git stash drop stash@{0}`**          | Manually deletes a specific stash from your list.                                                                        |
 | **`git stash clear`**                   | Permanently deletes **all** of your stashes.                                                                             |
+
+⚠️ Crucial Things to Remember
+
+- **Local Only:** Stashes are strictly saved on your local machine. They are never pushed to GitHub or shared with other developers when you run `git push`.
+- **Merge Conflicts:** If you apply a stash to a file that has changed significantly since you stashed it, Git might trigger a **merge conflict**. You will need to manually open the file, resolve the conflicts, and then safely make a commit.
