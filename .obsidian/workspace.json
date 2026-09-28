@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Concepts/Git Stash.md",
+                "file": "New Concepts/Commands Used for find stagged changes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git Stash"
+              "title": "Commands Used for find stagged changes"
             }
           }
         ],
@@ -213,12 +213,13 @@
   },
   "active": "9a3df9eeb6371311",
   "lastOpenFiles": [
+    "New Concepts/Git Stash.md",
+    "New Concepts/Commands Used for find stagged changes.md",
     "New Concepts/Agile Method.md",
     "New Concepts/CI-CD pipeline.md",
     "Programming Languages/Zod.md",
     "Programming Languages/HTML.md",
     "Programming Languages/GitHub.md",
-    "New Concepts/Git Stash.md",
     "StockPilot/Improve Methods/Payement  GateWay.md",
     "StockPilot/Files Usages and Definitions/next.config.ts.md",
     "StockPilot/Improve Methods",
