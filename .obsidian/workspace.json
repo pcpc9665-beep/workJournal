@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "different types of testing.md",
+                "file": "New Concepts/How git tracks the changes of a file.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "different types of testing"
+              "title": "How git tracks the changes of a file"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Concepts/Commands Used for find stagged changes.md",
+                "file": "New Concepts/How git tracks the changes of a file.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Commands Used for find stagged changes"
+              "title": "How git tracks the changes of a file"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,9 +210,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9a3df9eeb6371311",
+  "active": "bfdbf52f68b0f518",
   "lastOpenFiles": [
     "New Concepts/Git Stash.md",
+    "different types of testing.md",
+    "New Concepts/How git tracks the changes of a file.md",
     "New Concepts/Commands Used for find stagged changes.md",
     "New Concepts/Agile Method.md",
     "New Concepts/CI-CD pipeline.md",
@@ -224,7 +225,6 @@
     "StockPilot/Files Usages and Definitions/next.config.ts.md",
     "StockPilot/Improve Methods",
     "StockPilot/Files Usages and Definitions",
-    "different types of testing.md",
     "StockPilot",
     "Untitled",
     "Untitled.base",
