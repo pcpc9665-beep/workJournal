@@ -25,11 +25,10 @@ Real-world example
 
 Useful tips
 
-- **View file names only:** Use `git diff --staged --name-only` to see a quick list of staged files without drowning in lines of code.
-- **Ignore whitespace changes:** If your code formatter added accidental spaces or tabs, use `git diff --staged -w` to hide whitespace noise and see only the actual code changes.
-- **See change statistics:** Use `git diff --staged --stat` to view a summary of how many lines were inserted or deleted per file.
-- **Avoid syntax chaining errors:** Never run `git diff --staged git diff --cached` on the same line without a separator like `&&`, or Git will look for non-existent files.
-
+- **ഫയൽ നാമങ്ങൾ മാത്രം കാണുക:** കോഡിന്റെ വരികളിൽ മുങ്ങാതെ സ്റ്റേജ് ചെയ്ത ഫയലുകളുടെ ഒരു ദ്രുത ലിസ്റ്റ് കാണുന്നതിന് `git diff --staged --name-only` ഉപയോഗിക്കുക.
+- **വൈറ്റ്‌സ്‌പെയ്‌സ് മാറ്റങ്ങൾ അവഗണിക്കുക:** നിങ്ങളുടെ കോഡ് ഫോർമാറ്റർ ആകസ്മികമായ സ്‌പെയ്‌സുകളോ ടാബുകളോ ചേർത്തിട്ടുണ്ടെങ്കിൽ, വൈറ്റ്‌സ്‌പെയ്‌സ് നോയ്‌സ് മറയ്‌ക്കാനും യഥാർത്ഥ കോഡ് മാറ്റങ്ങൾ മാത്രം കാണാനും `git diff --staged -w` ഉപയോഗിക്കുക.
+- **മാറ്റ സ്ഥിതിവിവരക്കണക്കുകൾ കാണുക:** ഓരോ ഫയലിലും എത്ര വരികൾ ചേർത്തു അല്ലെങ്കിൽ ഇല്ലാതാക്കി എന്നതിന്റെ സംഗ്രഹം കാണുന്നതിന് `git diff --staged --stat` ഉപയോഗിക്കുക.
+- **വാക്യഘടന ചെയിനിംഗ് പിശകുകൾ ഒഴിവാക്കുക:** `&&` പോലുള്ള ഒരു സെപ്പറേറ്റർ ഇല്ലാതെ ഒരേ വരിയിൽ ഒരിക്കലും `git diff --staged git diff --cached` പ്രവർത്തിപ്പിക്കരുത്, അല്ലെങ്കിൽ Git നിലവിലില്ലാത്ത ഫയലുകൾക്കായി തിരയും.
 ## Conclusion
 
-The `git diff --staged` and `git diff --cached` commands are identical twin commands that act as your final gateway review. Using them regularly builds great version control habits, ensuring that every single commit you make to your codebase is clean, intentional, and error-free.
+`git diff --staged` ഉം `git diff --cached` കമാൻഡുകളും നിങ്ങളുടെ അന്തിമ ഗേറ്റ്‌വേ അവലോകനമായി പ്രവർത്തിക്കുന്ന സമാന ഇരട്ട കമാൻഡുകളാണ്. അവ പതിവായി ഉപയോഗിക്കുന്നത് മികച്ച പതിപ്പ് നിയന്ത്രണ ശീലങ്ങൾ സൃഷ്ടിക്കുന്നു, നിങ്ങളുടെ കോഡ്ബേസിലേക്ക് നിങ്ങൾ ചെയ്യുന്ന ഓരോ പ്രതിബദ്ധതയും ശുദ്ധവും, മനഃപൂർവ്വവും, പിശകുകളില്ലാത്തതുമാണെന്ന് ഉറപ്പാക്കുന്നു.
