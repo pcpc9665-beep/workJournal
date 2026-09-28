@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problem Handling/JS Object how handle large data set.md",
+                "file": "Speaking Language/English.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JS Object how handle large data set"
+              "title": "English"
             }
           },
           {
@@ -212,6 +212,10 @@
   },
   "active": "bfdbf52f68b0f518",
   "lastOpenFiles": [
+    "Programming Languages/JavaScript.md",
+    "New Concepts/Object(JS) and (TS).md",
+    "Programming Languages/TypeScript.md",
+    "Problem Handling/JS Object how handle large data set.md",
     "different types of testing.md",
     "StockPilot/Improve Methods/Payement  GateWay.md",
     "StockPilot/Files Usages and Definitions/next.config.ts.md",
