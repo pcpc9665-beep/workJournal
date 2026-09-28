@@ -11,13 +11,14 @@
             "id": "bfdbf52f68b0f518",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.base",
-                "viewName": "Table"
+                "file": "New Concepts/Commands Used for find stagged changes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Commands Used for find stagged changes"
             }
           },
           {
@@ -211,6 +212,13 @@
   },
   "active": "bfdbf52f68b0f518",
   "lastOpenFiles": [
+    "Programming Languages/GitHub.md",
+    "New Concepts/How git tracks the changes of a file.md",
+    "Programming Languages/Express.md",
+    "Programming Languages/CSS.md",
+    "different types of testing.md",
+    "Useful commands.md",
+    "Untitled.base",
     "New Concepts/System Design.md",
     "CS/CS Concepts.md",
     "New Concepts/Different Automations.md",
@@ -219,14 +227,9 @@
     "New Concepts/Object(JS) and (TS).md",
     "Programming Languages/TypeScript.md",
     "Problem Handling/JS Object how handle large data set.md",
-    "different types of testing.md",
     "StockPilot/Improve Methods/Payement  GateWay.md",
     "StockPilot/Files Usages and Definitions/next.config.ts.md",
     "New Concepts/Commands Used for find stagged changes.md",
-    "Programming Languages/GitHub.md",
-    "New Concepts/How git tracks the changes of a file.md",
-    "Untitled.base",
-    "Useful commands.md",
     "New Concepts/Git Stash.md",
     "New Concepts/Agile Method.md",
     "New Concepts/CI-CD pipeline.md",
