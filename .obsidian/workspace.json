@@ -11,14 +11,13 @@
             "id": "bfdbf52f68b0f518",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "CS/CS Concepts.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "CS Concepts"
+              "icon": "lucide-table",
+              "title": "Untitled"
             }
           },
           {
@@ -212,6 +211,8 @@
   },
   "active": "bfdbf52f68b0f518",
   "lastOpenFiles": [
+    "New Concepts/System Design.md",
+    "CS/CS Concepts.md",
     "New Concepts/Different Automations.md",
     "Speaking Language/English.md",
     "Programming Languages/JavaScript.md",

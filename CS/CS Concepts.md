@@ -6,9 +6,10 @@
 
 [[Agile Method]]
 
-[[]]
+
 # Automate Concepts
 
+[[Different Automations]]
 [[CI-CD pipeline]]
 [[Triggers and Events]]
 [[Testing Automation]]
