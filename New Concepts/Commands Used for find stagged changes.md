@@ -14,14 +14,14 @@ git diff --cached
 
 git diff --staged / --cached
 
-- **Usage:** Displays the exact differences between your staging area and your last commit (`HEAD`).
-- **Main usage:** This command is used to review exactly what changes you are about to commit to your project history. It serves as a final safety check. By reviewing the precise line-by-line modifications before running `git commit`, you can ensure no debugging code, temporary notes, or unwanted file changes accidentally slip into your repository.
+- **ഉപയോഗം:** നിങ്ങളുടെ സ്റ്റേജിംഗ് ഏരിയയും അവസാന കമ്മിറ്റും (`HEAD`) തമ്മിലുള്ള കൃത്യമായ വ്യത്യാസങ്ങൾ പ്രദർശിപ്പിക്കുന്നു.
+- **പ്രധാന ഉപയോഗം:** നിങ്ങളുടെ പ്രോജക്റ്റ് ചരിത്രത്തിൽ നിങ്ങൾ എന്ത് മാറ്റങ്ങൾ വരുത്താൻ പോകുന്നുവെന്ന് കൃത്യമായി അവലോകനം ചെയ്യാൻ ഈ കമാൻഡ് ഉപയോഗിക്കുന്നു. ഇത് ഒരു അന്തിമ സുരക്ഷാ പരിശോധനയായി വർത്തിക്കുന്നു. `git commit` പ്രവർത്തിപ്പിക്കുന്നതിന് മുമ്പ് കൃത്യമായ വരികൾ-തോറും പരിഷ്കാരങ്ങൾ അവലോകനം ചെയ്യുന്നതിലൂടെ, ഡീബഗ്ഗിംഗ് കോഡ്, താൽക്കാലിക കുറിപ്പുകൾ അല്ലെങ്കിൽ അനാവശ്യ ഫയൽ മാറ്റങ്ങൾ നിങ്ങളുടെ ശേഖരത്തിലേക്ക് ആകസ്മികമായി വഴുതിവീഴുന്നില്ലെന്ന് നിങ്ങൾക്ക് ഉറപ്പാക്കാൻ കഴിയും.
 
 Real-world example
 
-Imagine you are fixing a login bug in a file called `auth.js`. You also added a quick tracking comment in `config.json`.
+`auth.js` എന്ന ഫയലിൽ നിങ്ങൾ ഒരു ലോഗിൻ ബഗ് പരിഹരിക്കുകയാണെന്ന് സങ്കൽപ്പിക്കുക. `config.json`-ൽ നിങ്ങൾ ഒരു ദ്രുത ട്രാക്കിംഗ് അഭിപ്രായവും ചേർത്തു.
 
-You stage the authentication fix using `git add auth.js`, but you leave `config.json` unstaged because it is not ready. Running `git diff --staged` will output a color-coded diff showing _only_ the specific code lines you modified and staged inside `auth.js`. It completely ignores `config.json`, allowing you to safely verify your login fix before committing.
+`git add auth.js` ഉപയോഗിച്ച് നിങ്ങൾ പ്രാമാണീകരണ പരിഹാരം സ്റ്റേജ് ചെയ്യുന്നു, പക്ഷേ അത് തയ്യാറാകാത്തതിനാൽ `config.json` സ്റ്റേജ് ചെയ്യാതെ വിടുന്നു. `git diff --staged` പ്രവർത്തിപ്പിക്കുന്നത്, `auth.js`-നുള്ളിൽ നിങ്ങൾ പരിഷ്കരിച്ചതും സ്റ്റേജ് ചെയ്തതുമായ നിർദ്ദിഷ്ട കോഡ് ലൈനുകൾ _മാത്രം_ കാണിക്കുന്ന ഒരു കളർ-കോഡഡ് ഡിഫ് ഔട്ട്പുട്ട് ചെയ്യും. ഇത് `config.json` നെ പൂർണ്ണമായും അവഗണിക്കുകയും, കമ്മിറ്റ് ചെയ്യുന്നതിന് മുമ്പ് നിങ്ങളുടെ ലോഗിൻ ഫിക്സ് സുരക്ഷിതമായി പരിശോധിക്കാൻ നിങ്ങളെ അനുവദിക്കുകയും ചെയ്യുന്നു.
 
 Useful tips
 
