@@ -6,13 +6,14 @@
 
 [[Agile Method]]
 
-
+[[]]
 # Automate Concepts
 
 [[CI-CD pipeline]]
 [[Triggers and Events]]
 [[Testing Automation]]
 [[Browser Automation]]
+
 
 # System Design
 

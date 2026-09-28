@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Speaking Language/English.md",
+                "file": "CS/CS Concepts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "English"
+              "title": "CS Concepts"
             }
           },
           {
@@ -212,6 +212,8 @@
   },
   "active": "bfdbf52f68b0f518",
   "lastOpenFiles": [
+    "New Concepts/Different Automations.md",
+    "Speaking Language/English.md",
     "Programming Languages/JavaScript.md",
     "New Concepts/Object(JS) and (TS).md",
     "Programming Languages/TypeScript.md",
@@ -222,7 +224,6 @@
     "New Concepts/Commands Used for find stagged changes.md",
     "Programming Languages/GitHub.md",
     "New Concepts/How git tracks the changes of a file.md",
-    "Webb.md",
     "Untitled.base",
     "Useful commands.md",
     "New Concepts/Git Stash.md",
