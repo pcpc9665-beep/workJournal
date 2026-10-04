@@ -19,3 +19,9 @@
 # System Design
 
 [[System Design]]
+
+
+# full stack concept
+
+[[Backend Mastry]]
+

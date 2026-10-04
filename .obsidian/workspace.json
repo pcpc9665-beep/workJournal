@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/CS Concepts.md",
+                "file": "Backend Mastry.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CS Concepts"
+              "title": "Backend Mastry"
             }
           },
           {
@@ -212,8 +212,9 @@
   },
   "active": "bfdbf52f68b0f518",
   "lastOpenFiles": [
-    "New Concepts/System Design.md",
     "CS/CS Concepts.md",
+    "Backend Mastry.md",
+    "New Concepts/System Design.md",
     "New Concepts/What is System Design.md",
     "New Concepts/CI-CD pipeline.md",
     "New Concepts/Commands Used for find stagged changes.md",
