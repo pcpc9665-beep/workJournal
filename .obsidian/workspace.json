@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Concepts/Commands Used for find stagged changes.md",
+                "file": "CS/CS Concepts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Commands Used for find stagged changes"
+              "title": "CS Concepts"
             }
           },
           {
@@ -212,6 +212,9 @@
   },
   "active": "bfdbf52f68b0f518",
   "lastOpenFiles": [
+    "New Concepts/CI-CD pipeline.md",
+    "CS/CS Concepts.md",
+    "New Concepts/Commands Used for find stagged changes.md",
     "Programming Languages/GitHub.md",
     "New Concepts/How git tracks the changes of a file.md",
     "Programming Languages/Express.md",
@@ -220,7 +223,6 @@
     "Useful commands.md",
     "Untitled.base",
     "New Concepts/System Design.md",
-    "CS/CS Concepts.md",
     "New Concepts/Different Automations.md",
     "Speaking Language/English.md",
     "Programming Languages/JavaScript.md",
@@ -229,10 +231,8 @@
     "Problem Handling/JS Object how handle large data set.md",
     "StockPilot/Improve Methods/Payement  GateWay.md",
     "StockPilot/Files Usages and Definitions/next.config.ts.md",
-    "New Concepts/Commands Used for find stagged changes.md",
     "New Concepts/Git Stash.md",
     "New Concepts/Agile Method.md",
-    "New Concepts/CI-CD pipeline.md",
     "Programming Languages/Zod.md",
     "Programming Languages/HTML.md",
     "StockPilot/Improve Methods",
