@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Mastry.md",
+                "file": "OpenApiSpec.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Backend Mastry"
+              "title": "OpenApiSpec"
             }
           },
           {
@@ -212,8 +212,9 @@
   },
   "active": "bfdbf52f68b0f518",
   "lastOpenFiles": [
-    "CS/CS Concepts.md",
     "Backend Mastry.md",
+    "OpenApiSpec.md",
+    "CS/CS Concepts.md",
     "New Concepts/System Design.md",
     "New Concepts/What is System Design.md",
     "New Concepts/CI-CD pipeline.md",
@@ -241,7 +242,6 @@
     "StockPilot/Files Usages and Definitions",
     "StockPilot",
     "Untitled",
-    "New Concepts/MCP VS API.md",
-    "New Concept for understand Speaking Languages/Different Tenses of English.md"
+    "New Concepts/MCP VS API.md"
   ]
 }
