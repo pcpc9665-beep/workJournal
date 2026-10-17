@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bfdbf52f68b0f518",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "New Concepts/Difference of Compaile time and run time.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Difference of Compaile time and run time"
-            }
-          },
-          {
             "id": "9a3df9eeb6371311",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Concepts/How git tracks the changes of a file.md",
+                "file": "StockPilot/Improve Methods/Payement  GateWay.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How git tracks the changes of a file"
+              "title": "Payement  GateWay"
             }
           }
         ]
@@ -210,10 +196,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bfdbf52f68b0f518",
+  "active": "9a3df9eeb6371311",
   "lastOpenFiles": [
-    "mistake/javascript.md",
+    "New Concepts/How git tracks the changes of a file.md",
+    "Active - Passive.md",
+    "Programming Languages/Zustand.md",
+    "New Concepts/What is Zustand.md",
     "New Concepts/Difference of Compaile time and run time.md",
+    "mistake/javascript.md",
     "OpenApiSpec.md",
     "Backend Mastry.md",
     "CS/CS Concepts.md",
@@ -222,7 +212,6 @@
     "New Concepts/CI-CD pipeline.md",
     "New Concepts/Commands Used for find stagged changes.md",
     "Programming Languages/GitHub.md",
-    "New Concepts/How git tracks the changes of a file.md",
     "Programming Languages/Express.md",
     "Programming Languages/CSS.md",
     "different types of testing.md",
@@ -236,9 +225,6 @@
     "Problem Handling/JS Object how handle large data set.md",
     "StockPilot/Improve Methods/Payement  GateWay.md",
     "StockPilot/Files Usages and Definitions/next.config.ts.md",
-    "New Concepts/Git Stash.md",
-    "New Concepts/Agile Method.md",
-    "Programming Languages/Zod.md",
     "StockPilot/Improve Methods",
     "StockPilot/Files Usages and Definitions",
     "StockPilot",
