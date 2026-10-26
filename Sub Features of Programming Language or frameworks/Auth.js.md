@@ -16,8 +16,8 @@ Trade-offs of Auth.js
 
 **Cons (Disadvantages & Limitations)**
 
-- **Now in Maintenance Mode:** Because it merged with Better Auth, active feature development has stopped. Only security and critical bug fixes remain. [[1](https://github.com/nextauthjs/next-auth/discussions/13252), [2](https://www.buildmvpfast.com/blog/better-auth-vs-clerk-vs-authjs-nextjs-decision-tree-2026)]
-- **Steep Learning Curve for Customization:** Complex custom flows, multi-tenant organizations, fine-grained role-based access control (RBAC), or deep overrides often require writing boilerplate code or custom callbacks. [[1](https://blog.logrocket.com/auth-js-adoption-guide/), [2](https://www.reddit.com/r/buildinpublic/comments/1o1chpe/authjs_is_now_part_of_better_auth_what_this/)]
+- **Now in Maintenance Mode:** Because it merged with Better Auth, active feature development has stopped. Only security and critical bug fixes remain. [1](https://github.com/nextauthjs/next-auth/discussions/13252), [2](https://www.buildmvpfast.com/blog/better-auth-vs-clerk-vs-authjs-nextjs-decision-tree-2026)]
+- **Steep Learning Curve for Customization:** Complex custom flows, multi-tenant organizations, fine-grained role-based access control (RBAC), or deep overrides often require writing boilerplate code or custom callbacks. [1](https://blog.logrocket.com/auth-js-adoption-guide/), [2](https://www.reddit.com/r/buildinpublic/comments/1o1chpe/authjs_is_now_part_of_better_auth_what_this/)]
 - **Migration and Version Pain:** Transitioning across major versions (such as the rocky evolution from NextAuth v4 to Auth.js v5) historically introduced breaking changes and documentation gaps. [[1](https://blog.logrocket.com/auth-js-adoption-guide/)]
 - **Opinionated Defaults on Credentials:** It intentionally discourages traditional password-based credentials in favor of OAuth or passwordless magic links/passkeys, making standard username/password setups clunky to implement. [[1](https://www.youtube.com/watch?v=R0tJdNoq74M&t=38)]
 - **JWT Size Constraints:** Using JWT session strategies limits payload size to roughly 4,096 bytes before requiring chunking or moving data to a database
