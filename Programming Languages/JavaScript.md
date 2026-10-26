@@ -10,3 +10,8 @@
 
 [[Js Closure]]
 [[Variables and Scope of JS]]
+
+
+concepts 
+
+[[Difference between named and default exports]]
