@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Next js 16 update.md",
+                "file": "Programming Languages/Docker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Next js 16 update"
+              "title": "Docker"
             }
           }
         ]
@@ -198,8 +198,10 @@
   },
   "active": "2cce649eac52ca9a",
   "lastOpenFiles": [
-    "New Concepts/Temporal Dead Zone (TDZ)..md",
+    "New Concept for understand Speaking Languages/Kubernetes cheat sheet.md",
+    "Programming Languages/Docker.md",
     "Next js 16 update.md",
+    "New Concepts/Temporal Dead Zone (TDZ)..md",
     "Programming Languages/JavaScript.md",
     "Difference between named and default exports.md",
     "Programming Languages/React.md",
@@ -224,8 +226,6 @@
     "CS/CS Concepts.md",
     "New Concepts/What is System Design.md",
     "New Concepts/CI-CD pipeline.md",
-    "New Concepts/Commands Used for find stagged changes.md",
-    "Programming Languages/GitHub.md",
     "Untitled.base",
     "StockPilot/Improve Methods",
     "StockPilot/Files Usages and Definitions",
